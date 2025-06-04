@@ -1,0 +1,7 @@
+print ("Assalamu'alaikum")
+print ("------------------")
+print ("Nomor Induk     : 240101065")
+print ("Nama Mahasiswa  : Aprilla Addivi Tiar Almashinta")
+print ("Program Studi   : SISTEM INFORMASI")
+print ("Kelas           : SI-24-A3")
+print ("==================")
